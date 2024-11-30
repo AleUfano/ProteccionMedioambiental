@@ -1,6 +1,6 @@
-# ProteccionMedioambiental
+# Protección Medioambiental
 
-# Índice
+## Índice
 
   1. [¿Qué es la contaminación ambiental?](contaminacion.md)
   2. [Residuos informáticos](residuos.md)
