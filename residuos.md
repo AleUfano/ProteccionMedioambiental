@@ -13,4 +13,4 @@ Esto demuestra que aún existen grandes brechsa y desafíos en cuanto a la gesti
 
 Empresas como [Back Market](https://www.backmarket.es/es-es) apuestan por un modelo de economia circular, el reacondicionamiento de los dispositivos, esto puede incluirse como un método para reducir los residuos informáticos además de ser una alternativa mas económica.
 
-![img4](img/img3.png)
+![img4](img/img4.png)
