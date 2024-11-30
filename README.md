@@ -1,5 +1,5 @@
 # Protección Medioambiental
-
+![Proteccion](img/img1.jpg)
 ## Índice
 
   1. [¿Qué es la contaminación ambiental?](contaminacion.md)
