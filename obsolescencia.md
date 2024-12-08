@@ -1,4 +1,4 @@
-# OBSOlescencia programada
+# OBSOLESCENCIA PROGRAMADA
 
 Esta práctica de diseño industrial limita la vida útil de los productos, obligando a los consumidores a reemplazarlos con mayor frecuencia. En Europa, este problema ha generado un fuerte rechazo, promoviendo iniciativas para alargar la durabilidad de los bienes y mejorar la información al consumidor. Por ejemplo, la Unión Europea aprobó en 2024 la Directiva del Derecho a la Reparación, que facilita el acceso a piezas y manuales de reparación para electrodomésticos, electrónicos y otros productos. Además, estudios han demostrado que etiquetar la duración estimada de los productos puede influir positivamente en las decisiones de compra, con un aumento significativo en las ventas de productos etiquetados como duraderos en países como España y Francia. Estas medidas buscan fomentar una economía más sostenible y reducir el desperdicio generado por la cultura de lo desechable.
 
